@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\bin\Debug\net10.0\ProgramacaoAssincrona.exe
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\bin\Debug\net10.0\ProgramacaoAssincrona.deps.json
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\bin\Debug\net10.0\ProgramacaoAssincrona.runtimeconfig.json
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\bin\Debug\net10.0\ProgramacaoAssincrona.dll
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\bin\Debug\net10.0\ProgramacaoAssincrona.pdb
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\net10.0\ProgramacaoAssincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\net10.0\ProgramacaoAssincrona.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\net10.0\ProgramacaoAssincrona.AssemblyInfo.cs
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\net10.0\ProgramacaoAssincrona.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\net10.0\ProgramacaoAssincrona.dll
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\net10.0\refint\ProgramacaoAssincrona.dll
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\net10.0\ProgramacaoAssincrona.pdb
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\net10.0\ProgramacaoAssincrona.genruntimeconfig.cache
+C:\Users\User\source\repos\ProgramacaoAssincrona\ProgramacaoAssincrona\obj\Debug\net10.0\ref\ProgramacaoAssincrona.dll
